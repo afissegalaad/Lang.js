@@ -31,9 +31,7 @@ This example changes the language of a web site when two buttons are clicked.
 
 Include the library in your HTML:
 
-```html
-<script src="lang.js" type="text/javascript"></script>
-```
+`<script src="lang.js" type="text/javascript"></script>`
 
 ## License
 
