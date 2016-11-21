@@ -1,6 +1,15 @@
 # Lang.js
 
-Lang.js is a Javascript library that manages multiple languages on a single website.
+Lang.js is a Javascript library that manages multiple languages on a
+single website. The aim is to show how simple it is to deal with
+multiple languages on a single website. 
+
+There might be plenty different solutions. I choosed to deal with a
+JavaScript object that links tags' ids to their textual contents.
+
+You might imagine a different solution using an external content file,
+one for each language or not. Or you can use an external API to
+translate on the fly the original content.
 
 * **Easy:** One Javascript object that contains text in all languages.
 * **Flexible:** Use as many languages as needed.
